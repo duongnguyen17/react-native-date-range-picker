@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DateRangePicker</string>
+    <string name="txt_select">Done</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_title">Select date</string>
+    <string name="txt_please_select_date">Please select date</string>
+    <string name="txt_please_select_date_range">Please select date range</string>
+    <string name="txt_template_today">Today</string>
+    <string name="txt_template_tomorrow">Tomorrow</string>
+    <string name="txt_template_yesterday">Yesterday</string>
+    <string name="txt_template_last_week">Last week</string>
+    <string name="txt_template_last_month">Last month</string>
+    <string name="txt_monday_short">TH 2</string>
+    <string name="txt_tuesday_short">TH 3</string>
+    <string name="txt_wednesday_short">TH 4</string>
+    <string name="txt_thursday_short">TH 5</string>
+    <string name="txt_friday_short">TH 6</string>
+    <string name="txt_saturday_short">TH 7</string>
+    <string name="txt_sunday_short">CN</string>
+
+    <string-array name="amcalendar_months">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </string-array>
+</resources>
